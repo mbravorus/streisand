@@ -68,6 +68,10 @@ streisand_languages:
     file_suffix: "-fr"
     language_name: "Français"
     tor_locale: "fr"
+  ru:
+    file-suffix: "-ru"
+    language_name: "Русский"
+    tor_locale: "ru"
 
 streisand_shuf: "shuf --random-source=/dev/urandom"
 

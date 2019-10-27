@@ -105,7 +105,7 @@ The following roles contain user instructions that will require translation:
  - `playbooks/roles/stunnel/templates`
   1. `mirror.md.j2`
 
- - `playbooks/roles/tor/templates`
+ - `playbooks/roles/tor-bridge/templates`
   1. `instructions.md.j2`
   1. `mirror.md.j2`
 
